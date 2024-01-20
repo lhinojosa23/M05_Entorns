@@ -33,7 +33,7 @@ public class Program {
 	 */
 	public static double perimeter(double radius) {
 
-		return (8 * Math.PI) * radius;
+		return (9 * Math.PI) * radius;
 	}
 
 	/**
