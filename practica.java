@@ -1,4 +1,3 @@
-
-var d = 7;
+var d = 5;
 var f = 'D';
 print("hello !")
