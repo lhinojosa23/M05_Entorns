@@ -1,4 +1,4 @@
 
 var d = 5;
 var f = 'D';
-print("hello ggg !")
+print("hello 2024 !")
